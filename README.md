@@ -1,3 +1,9 @@
-# [DevCookbook](https://microsoft.github.io/DevCookbook/)
+# Martin's Cookbook 
 
-> The Cookbook for Developers!
+Forked from [Microsoft/DevCookbook](https://microsoft.github.io/DevCookbook/).
+
+## Getting started
+
+1. Install requirements `pip install -r requirements.txt`
+2. Compile the pages `python compile.py --target dev`
+

@@ -11,8 +11,8 @@ class Recipe:
     category: RecipeCategory
     recipe_name: str
     quote: str
-    ingredients: list[str]
-    instructions: list[str]
+    ingredients: str
+    instructions: str
 
     @property
     def slug(self) -> str:

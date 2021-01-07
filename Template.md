@@ -2,12 +2,11 @@
 name: [Full Name]
 residence: [City, country]
 category: {appetizer, entree, dessert, other}
+quote: [Quote]
 ---
 
 # [Recipe Name]
 
-> [Quote]
-
 ## Ingredients
 
-## Directions
+## Instructions

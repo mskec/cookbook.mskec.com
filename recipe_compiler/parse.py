@@ -104,16 +104,33 @@ def parse_to_recipe(content: str) -> Recipe:
 
     document = marko.parse(content)
     recipe_name = get_recipe_name(document)
-    quote = get_quote(document)
-    ingredients = get_ingredients(document)
-    instructions = get_instructions(document)
+
+    ingredients = list()
+    instructions = list()
+    in_ingredients = False
+    in_instructions = False
+    for line in content.splitlines():
+        if line.strip().lower() == "## Ingredients".lower():
+            in_ingredients = True
+            in_instructions = False
+        elif line.strip().lower() == "## Instructions".lower():
+            in_ingredients = False
+            in_instructions = True
+        elif in_ingredients:
+            ingredients.append(line)
+        elif in_instructions:
+            instructions.append(line)
+
+    # quote = get_quote(document)
+    # ingredients = get_ingredients(document)
+    # instructions = get_instructions(document)
 
     return Recipe(
         name=recipe_metadata["name"],
         residence=recipe_metadata["residence"],
         category=RecipeCategory(recipe_metadata["category"].lower()),
         recipe_name=recipe_name,
-        quote=quote,
-        ingredients=ingredients,
-        instructions=instructions,
+        quote=recipe_metadata["quote"] if "quote" in recipe_metadata else "",
+        ingredients="\n".join(ingredients),
+        instructions="\n".join(instructions),
     )

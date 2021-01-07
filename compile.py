@@ -35,10 +35,10 @@ if __name__ == "__main__":
 
     # Handles the path setting for production versus local
     # (Production has /DevCookbook/ prepended to the path)
-    env.globals = {"path_base": "/DevCookbook/" if target == "prod" else "/"}
+    env.globals = {"path_base": "/cookbook/" if target == "prod" else "/"}
 
     home_page = render_home_page(recipes, env)
-    contribute_page = render_contribute_page(env)
+    # contribute_page = render_contribute_page(env)
     recipe_pages = zip(
         [recipe.slug for recipe in recipes],
         [render_recipe_page(recipe, env) for recipe in recipes],
@@ -46,6 +46,6 @@ if __name__ == "__main__":
 
     # Write
     write_home_page(home_page)
-    write_page("contribute", contribute_page)
+    # write_page("contribute", contribute_page)
     for recipe_slug, recipe_page in recipe_pages:
         write_page(recipe_slug, recipe_page)

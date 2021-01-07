@@ -189,6 +189,7 @@ section > header {
     flex-wrap: wrap;
     margin-bottom: 2rem;
     align-items: center;
+    justify-content: center;
 }
 
 section > header h2 {

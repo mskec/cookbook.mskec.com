@@ -1,0 +1,35 @@
+{% extends "index.html" %} {% block content %}
+<nav>
+    <a href="{{ path_base }}"><strong>Open Source</strong> Cookbook</a>
+    <a href="contribute">Contribute a recipe!</a>
+</nav>
+<section class="recipe">
+    <div class="illustration">
+        <img src="illustrations/{{ recipe.category.value }}.png" alt="" />
+    </div>
+    <h1>{{ recipe.recipe_name }}</h1>
+    <div class="credit">
+        {% if recipe.name %} Submitted by {{ recipe.name }} {% endif %} {% if
+        recipe.residence %} from {{ recipe.residence }} {% endif %}
+    </div>
+    <blockquote>{{ recipe.quote }}</blockquote>
+    <div class="lists">
+        <div class="ingredients">
+            <h2>Ingredients</h2>
+            <ul>
+                {% for ingredient in recipe.ingredients %}
+                <li>{{ ingredient }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="directions">
+            <h2>Directions</h2>
+            <ol>
+                {% for instruction in recipe.instructions %}
+                <li>{{ instruction }}</li>
+                {% endfor %}
+            </ol>
+        </div>
+    </div>
+</section>
+{% endblock content %}

@@ -1,3 +1,4 @@
+import marko
 from jinja2 import Environment
 from recipe_compiler.recipe import Recipe
 
@@ -13,7 +14,11 @@ def render_recipe_page(recipe: Recipe, env: Environment) -> str:
         str: HTML representing the Recipe
     """
 
-    return env.get_template("recipe.html").render(recipe=recipe)
+    return env.get_template("recipe.html").render(
+        recipe=recipe,
+        ingredients_html=marko.convert(recipe.ingredients),
+        instructions_html=marko.convert(recipe.instructions),
+    )
 
 
 def render_home_page(recipes: list[Recipe], env: Environment) -> str:
