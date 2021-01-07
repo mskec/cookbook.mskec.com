@@ -22,4 +22,11 @@ class Recipe:
             str: The recipe_name in kebab-case format
         """
 
-        return self.recipe_name.lower().replace(" ", "-").replace("'", "").replace('"', "")
+        return self.recipe_name.lower()\
+            .replace("č", "c")\
+            .replace("ć", "c")\
+            .replace("đ", "d")\
+            .replace("š", "s")\
+            .replace(" ", "-")\
+            .replace("'", "")\
+            .replace('"', "")

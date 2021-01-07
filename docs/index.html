@@ -1,4 +1,18 @@
-{% extends "index.html" %} {% block content %}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <base href="/" />
+        <link rel="stylesheet" href="/style.css" />
+        <link
+            rel="shortcut icon"
+            href="illustrations/bowl-spice.png"
+            type="image/x-icon"
+        />
+        <title>Martin's Cookbook</title>
+    </head>
+    
 <body>
     <header>
         <h1><strong>Martin's</strong> Cookbook</h1>
@@ -20,7 +34,7 @@
             src="illustrations/red-onion.png"
             alt="An illustration of a red onion."
         />
-{#        <a href="contribute">Contribute your recipe</a>#}
+
     </div>
 
     <!-- Table of Contents -->
@@ -40,13 +54,7 @@
                     <div class="chapter-description">
                         <h3><a href="#appetizers">Appetizers</a></h3>
                         <ol>
-                            {% for recipe in recipes_by_category["appetizer"]%}
-                            <li>
-                                <a href="{{ recipe.slug }}"
-                                    >{{ recipe.recipe_name }}</a
-                                >
-                            </li>
-                            {% endfor %}
+                            
                         </ol>
                     </div>
                 </div>
@@ -55,13 +63,31 @@
                     <div class="chapter-description">
                         <h3><a href="#entrees">Entrees</a></h3>
                         <ol>
-                            {% for recipe in recipes_by_category["entree"]%}
+                            
                             <li>
-                                <a href="{{ recipe.slug }}"
-                                    >{{ recipe.recipe_name }}</a
+                                <a href="cevapcici"
+                                    >Ćevapčići</a
                                 >
                             </li>
-                            {% endfor %}
+                            
+                            <li>
+                                <a href="minced-beef-with-spinach"
+                                    >Minced beef with spinach</a
+                                >
+                            </li>
+                            
+                            <li>
+                                <a href="bolognese"
+                                    >Bolognese</a
+                                >
+                            </li>
+                            
+                            <li>
+                                <a href="tonkotsu-ramen"
+                                    >Tonkotsu ramen</a
+                                >
+                            </li>
+                            
                         </ol>
                     </div>
                 </div>
@@ -72,13 +98,19 @@
                     <div class="chapter-description">
                         <h3><a href="#desserts">Desserts</a></h3>
                         <ol>
-                            {% for recipe in recipes_by_category["dessert"]%}
+                            
                             <li>
-                                <a href="{{ recipe.slug }}"
-                                    >{{ recipe.recipe_name }}</a
+                                <a href="brownies"
+                                    >Brownies</a
                                 >
                             </li>
-                            {% endfor %}
+                            
+                            <li>
+                                <a href="chocolate-cake"
+                                    >Chocolate cake</a
+                                >
+                            </li>
+                            
                         </ol>
                     </div>
                 </div>
@@ -87,13 +119,7 @@
                     <div class="chapter-description">
                         <h3><a href="#others">Others</a></h3>
                         <ol>
-                            {% for recipe in recipes_by_category["other"]%}
-                            <li>
-                                <a href="{{ recipe.slug }}"
-                                    >{{ recipe.recipe_name }}</a
-                                >
-                            </li>
-                            {% endfor %}
+                            
                         </ol>
                     </div>
                 </div>
@@ -112,19 +138,7 @@
             </div>
         </header>
         <div class="recipe-cards">
-            {% for recipe in recipes_by_category["appetizer"]%}
-            <div class="recipe-card">
-                <h3>
-                    <a href="{{ recipe.slug }}">{{ recipe.recipe_name }}</a>
-                </h3>
-                <hr />
-                <div>
-                    <span class="name">{{ recipe.name }}</span>
-                    <span class="residence">{{ recipe.residence }}</span>
-                    <span class="quote">{{ recipe.quote }}</span>
-                </div>
-            </div>
-            {% endfor %}
+            
         </div>
     </section>
 
@@ -139,19 +153,55 @@
             </div>
         </header>
         <div class="recipe-cards">
-            {% for recipe in recipes_by_category["entree"]%}
+            
             <div class="recipe-card">
                 <h3>
-                    <a href="{{ recipe.slug }}">{{ recipe.recipe_name }}</a>
+                    <a href="cevapcici">Ćevapčići</a>
                 </h3>
                 <hr />
                 <div>
-                    <span class="name">{{ recipe.name }}</span>
-                    <span class="residence">{{ recipe.residence }}</span>
-                    <span class="quote">{{ recipe.quote }}</span>
+                    <span class="name">Nikola Miličić</span>
+                    <span class="residence">Berlin, Germany</span>
+                    <span class="quote"></span>
                 </div>
             </div>
-            {% endfor %}
+            
+            <div class="recipe-card">
+                <h3>
+                    <a href="minced-beef-with-spinach">Minced beef with spinach</a>
+                </h3>
+                <hr />
+                <div>
+                    <span class="name">Martin Skec</span>
+                    <span class="residence">Berlin, Germany</span>
+                    <span class="quote"></span>
+                </div>
+            </div>
+            
+            <div class="recipe-card">
+                <h3>
+                    <a href="bolognese">Bolognese</a>
+                </h3>
+                <hr />
+                <div>
+                    <span class="name">Martin Skec</span>
+                    <span class="residence">Berlin, Germany</span>
+                    <span class="quote"></span>
+                </div>
+            </div>
+            
+            <div class="recipe-card">
+                <h3>
+                    <a href="tonkotsu-ramen">Tonkotsu ramen</a>
+                </h3>
+                <hr />
+                <div>
+                    <span class="name">Nikola Miličić</span>
+                    <span class="residence">Berlin, Germany</span>
+                    <span class="quote"></span>
+                </div>
+            </div>
+            
         </div>
     </section>
 
@@ -166,19 +216,31 @@
             </div>
         </header>
         <div class="recipe-cards">
-            {% for recipe in recipes_by_category["dessert"]%}
+            
             <div class="recipe-card">
                 <h3>
-                    <a href="{{ recipe.slug }}">{{ recipe.recipe_name }}</a>
+                    <a href="brownies">Brownies</a>
                 </h3>
                 <hr />
                 <div>
-                    <span class="name">{{ recipe.name }}</span>
-                    <span class="residence">{{ recipe.residence }}</span>
-                    <span class="quote">{{ recipe.quote }}</span>
+                    <span class="name">Martin Skec</span>
+                    <span class="residence">Berlin, Germany</span>
+                    <span class="quote"></span>
                 </div>
             </div>
-            {% endfor %}
+            
+            <div class="recipe-card">
+                <h3>
+                    <a href="chocolate-cake">Chocolate cake</a>
+                </h3>
+                <hr />
+                <div>
+                    <span class="name">Martin Skec</span>
+                    <span class="residence">Berlin, Germany</span>
+                    <span class="quote"></span>
+                </div>
+            </div>
+            
         </div>
     </section>
 
@@ -193,20 +255,9 @@
             </div>
         </header>
         <div class="recipe-cards">
-            {% for recipe in recipes_by_category["other"]%}
-            <div class="recipe-card">
-                <h3>
-                    <a href="{{ recipe.slug }}">{{ recipe.recipe_name }}</a>
-                </h3>
-                <hr />
-                <div>
-                    <span class="name">{{ recipe.name }}</span>
-                    <span class="residence">{{ recipe.residence }}</span>
-                    <span class="quote">{{ recipe.quote }}</span>
-                </div>
-            </div>
-            {% endfor %}
+            
         </div>
     </section>
 </body>
-{% endblock content %}
+
+</html>
