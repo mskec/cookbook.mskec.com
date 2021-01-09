@@ -1,6 +1,6 @@
 ---
-name: Martin Skec
-residence: Berlin, Germany
+name: Brankica Skec
+residence: Zagreb, Croatia
 category: dessert
 ---
 

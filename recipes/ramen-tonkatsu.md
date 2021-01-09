@@ -50,8 +50,8 @@ category: entree
 
 #### 2h before the end
 * Add onions and ginger
-* Don’t fill up water
-* It’s done when it reduces a bit and becomes thicker
+* Don't fill up water
+* It's done when it reduces a bit and becomes thicker
 
 #### Cooling down
 * We need to quickly cool it down
@@ -77,7 +77,7 @@ category: entree
 ### Plating
 * 1-2 spoons of tare
 * Soup 
-	* try if it’s salty enough
+	* try if it's salty enough
 	* if not, add more tare
 * Noodles
 * Meat

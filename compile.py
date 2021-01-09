@@ -14,7 +14,7 @@ import os
 
 parser = argparse.ArgumentParser()
 parser.add_argument(
-    "-t", "--target", help="The target for compilation ['dev','prod']", required=True, default="dev"
+    "-t", "--target", help="The target for compilation ['dev','prod']", default="dev"
 )
 
 if __name__ == "__main__":
