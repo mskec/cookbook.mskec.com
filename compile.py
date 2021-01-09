@@ -4,21 +4,19 @@ from recipe_compiler.parse import parse_to_recipe
 from recipe_compiler.render import (
     render_home_page,
     render_recipe_page,
-    render_contribute_page,
 )
 from recipe_compiler.write import write_home_page, write_page
 
-import argparse
+# import argparse
 import glob
-import os
 
-parser = argparse.ArgumentParser()
-parser.add_argument(
-    "-t", "--target", help="The target for compilation ['dev','prod']", default="dev"
-)
+# parser = argparse.ArgumentParser()
+# parser.add_argument(
+#     "-t", "--target", help="The target for compilation ['dev','prod']", default="dev"
+# )
 
 if __name__ == "__main__":
-    target = parser.parse_args().target
+    # target = parser.parse_args().target
 
     # Read
     recipe_files = glob.glob("./recipes/*.md")
@@ -35,7 +33,7 @@ if __name__ == "__main__":
 
     # Handles the path setting for production versus local
     # (Production has /cookbook/ prepended to the path)
-    env.globals = {"path_base": "/cookbook/" if target == "prod" else "/"}
+    env.globals = {"path_base": "/"}
 
     home_page = render_home_page(recipes, env)
     # contribute_page = render_contribute_page(env)
