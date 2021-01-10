@@ -14,7 +14,7 @@ category: other
 * 10g salt
 
 ## Instructions
-* dissolve fresh yeast in tepid water
+Dissolve fresh yeast in tepid water
 
 ### Mixing
 * In a mixing container
