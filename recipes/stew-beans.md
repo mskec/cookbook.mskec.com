@@ -26,11 +26,11 @@ category: entree
 * 10g sweet paprika
 
 ## Instructions
-*The night before*
+### The night before
 * Wash beans
 * Put them in bowl and let them soak in water over night
 
-*Cutting and chopping*
+### Cutting and chopping
 * Chop onions
 * Chop carrots (quarters)
 * Chop celery root and parsley into small cubes
@@ -39,13 +39,13 @@ category: entree
 * Slice tomato in half
 * Slice paprika in quarters
 
-*Cooking beans*
+### Cooking beans
 * drain beans and put them in pot
 * Add water (submerge)
 * Cook for 5 mins
 * Drain water
 
-*Cooking stew*
+### Cooking stew
 * Add oil
 * Cook onions for 10 mins
 * Add the remaining vegetables and cook for another 10 mins
@@ -58,25 +58,26 @@ category: entree
 * Cover and cook for 20mins
 * Stir every few mins to avoid sticking 
 
-*after 20mins*
+### after 20mins
 * take out tomatoes
 * remove skin, chop them as much as possible,  and return to pot
 * cook for 1h hour
 
-*after 1h*
+### after 1h
 * Take out paprika
 * remove skin, chop and return to pot
 * add salt ~10g
 
-*zaprska*
+### Roux
 * In a pan
 * cover with olive oil, lard
 * grate 3 garlic cloves
 * fry a few sec
 * add flour, paprika
 * fry for 30 sec
-* Add to pot
 
-* cook for 5 mins
+### Final steps
+* Add the roux to the pot
+* mix and cook for 5 mins
 
 Inspiration: [Vojnički grah recept](https://sasina-kuhinja.com/videorecepti/vojnicki-grah-recept)

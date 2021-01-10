@@ -1,6 +1,6 @@
 # TODO
 
-- [ ] Add number of person to meta
+- [ ] Add the number of person to meta
 - [ ] Add inspiration to meta
-- [ ] Add html minimisation
+- [x] Add html minimisation
 - [ ] Add css minimisation

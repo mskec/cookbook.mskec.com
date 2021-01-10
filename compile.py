@@ -7,16 +7,17 @@ from recipe_compiler.render import (
 )
 from recipe_compiler.write import write_home_page, write_page
 
-# import argparse
+import argparse
 import glob
+import htmlmin
 
-# parser = argparse.ArgumentParser()
-# parser.add_argument(
-#     "-t", "--target", help="The target for compilation ['dev','prod']", default="dev"
-# )
+parser = argparse.ArgumentParser()
+parser.add_argument(
+    "-t", "--target", help="The target for compilation ['dev','prod']", default="dev"
+)
 
 if __name__ == "__main__":
-    # target = parser.parse_args().target
+    target = parser.parse_args().target
 
     # Read
     recipe_files = glob.glob("./recipes/*.md")
@@ -41,6 +42,14 @@ if __name__ == "__main__":
         [recipe.slug for recipe in recipes],
         [render_recipe_page(recipe, env) for recipe in recipes],
     )
+
+    # Minify html
+    if target == 'prod':
+        home_page = htmlmin.minify(home_page, remove_empty_space=True)
+        recipe_pages = map(
+            lambda page: [page[0], htmlmin.minify(page[1], remove_empty_space=True)],
+            recipe_pages
+        )
 
     # Write
     write_home_page(home_page)
