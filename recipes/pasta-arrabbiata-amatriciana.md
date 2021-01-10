@@ -11,7 +11,7 @@ category: entree
 * 80g guanciale (pancetta)
 * 1 tomato
 * 0.5 tomato sauce with basil
-* 4-5 gloves of garlic
+* 4-5 garlic cloves
 * 0.5 fresh pepperoni (or chilli flakes)
 * Olive oil
 

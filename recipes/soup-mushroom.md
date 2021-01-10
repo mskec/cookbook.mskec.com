@@ -8,7 +8,7 @@ category: appetizer
 
 ## Ingredients 
 * 500g mushrooms (brown or mix of different ones)
-* 1-3 gloves garlic
+* 1-3 garlic cloves
 * 1 leek
 * 0.5l chicken or vegetable stock
 * 1/4 lemon (juice)

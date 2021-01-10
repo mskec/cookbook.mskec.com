@@ -1,29 +1,29 @@
 {% extends "index.html" %} {% block content %}
-<nav>
+  <nav>
     <a href="{{ path_base }}"><strong>Martin's</strong> Cookbook</a>
-{#    <a href="contribute">Contribute a recipe!</a>#}
-</nav>
-<section class="recipe">
+    {#    <a href="contribute">Contribute a recipe!</a>#}
+  </nav>
+  <section class="recipe">
     <div class="illustration">
-        <img src="illustrations/{{ recipe.category.value }}.png" alt="" />
+      <img src="illustrations/{{ recipe.category.value }}.png" alt=""/>
     </div>
     <h1>{{ recipe.recipe_name }}</h1>
     <div class="credit">
-        {% if recipe.name %} Recipe by {{ recipe.name }} {% endif %} {% if
+      {% if recipe.name %} Recipe by {{ recipe.name }} {% endif %} {% if
         recipe.residence %} from {{ recipe.residence }} {% endif %}
     </div>
     {% if recipe.quote %}
       <blockquote>{{ recipe.quote }}</blockquote>
     {% endif %}
     <div class="lists">
-        <div class="ingredients">
-            <h2>Ingredients</h2>
-            {{ ingredients_html | safe }}
-        </div>
-        <div class="instructions">
-            <h2>Instructions</h2>
-            {{ instructions_html | safe }}
-        </div>
+      <div class="ingredients">
+        <h2>Ingredients</h2>
+        {{ ingredients_html | safe }}
+      </div>
+      <div class="instructions">
+        <h2>Instructions</h2>
+        {{ instructions_html | safe }}
+      </div>
     </div>
-</section>
+  </section>
 {% endblock content %}

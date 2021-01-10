@@ -12,7 +12,7 @@ category: dessert
 * 600g chocolate 
 * 1/2 baking powder
 * olive oil
-* 0.5l cream
+* 0.5l whipped cream
 
 ## Instructions
 ### Biscuit
@@ -26,7 +26,10 @@ category: dessert
 * bake 45 min on 180 degrees
 
 ### Cream
-* cream 0.5 l
-* add chocolate and cream sahne together and melt it, stir slowly until evenly melted
+* add chocolate and whipped cream together and melt it, stir slowly until evenly melted
 * put it into a fridge to cool down (1h)
+* optionally mix in some sour cherries  
+
+### Assembly
 * pour onto baked biscuit
+* let it further cool down (ideally overnight)

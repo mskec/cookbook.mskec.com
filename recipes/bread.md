@@ -42,10 +42,3 @@ Place on a baking paper for 0.5-1h
 
 Inspiration: [How to Make Bread - French Guy Cooking](https://www.youtube.com/watch?v=1r6jV-MaQuc)
 
-#### Notes
-* used mixer for 10mins, hand kneading for 5 mins
-* egg shaped -> make it longer
-* two scores -> too deep, keep them centred, the bread “ripped"
-* It rose too high and was  hitting the lid
-* 30mins covered
-* 20mins uncovered

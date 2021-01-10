@@ -9,7 +9,7 @@ category: entree
 ## Ingredients 
 * 1.5 large onions
 * 1 large carrot
-* 2 medium gloves of garlic
+* 2 medium garlic cloves
 * 1.5kg ground beef
 * 3 cans ~1.2l tomato sauce
 	* 0.4l can with basil 

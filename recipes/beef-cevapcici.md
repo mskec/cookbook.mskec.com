@@ -7,8 +7,8 @@ category: entree
 # Ćevapčići
 
 ## Ingredients
-* minced beef 500g
-* garlic cloves 2
+* 500g minced beef
+* 2 garlic cloves
 * salt 10g 
 * soda bicarbonate 0.5 tsp
 * water 50ml

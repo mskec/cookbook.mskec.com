@@ -10,9 +10,9 @@ category: entree
 * 2 chorizo
 * 500g ground beef
 * 2 medium onions
-* 2 gloves garlic
+* 2 garlic cloves
 * 2 can of beans (~415g)
-* 6 Tbsp. sweet corn
+* 6 tbsp sweet corn
 * chili
 * salt
 * paprika

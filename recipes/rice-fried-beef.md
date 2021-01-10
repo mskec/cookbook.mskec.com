@@ -11,7 +11,7 @@ category: entree
 * 1 tsp sesame oil
 * 150g beef (1 rinder roladen)
 * 1/2 medium onion
-* 2 garlic gloves
+* 2 garlic cloves
 * salt
 * red-pepper flakes
 * 100g rice

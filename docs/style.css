@@ -66,6 +66,14 @@ nav {
     margin: 0.5rem 0.25rem 5rem 0.25rem;
 }
 
+footer {
+    text-align: center;
+    padding: 2.5em 1em;
+}
+footer > .links {
+    margin-bottom: 1em;
+}
+
 ::selection {
     background: var(--green-onion);
 }
@@ -99,7 +107,7 @@ strong {
     font-weight: 500;
 }
 
-p {
+p, ul, ol {
     margin-bottom: 1.5rem;
 }
 
@@ -270,7 +278,7 @@ section.table-of-contents {
 
 .recipe-cards {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
     gap: 1rem;
     max-width: 80rem;
     margin: auto;
