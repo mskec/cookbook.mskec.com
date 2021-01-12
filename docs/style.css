@@ -63,7 +63,7 @@ nav {
     font-size: 1.2rem;
     display: flex;
     justify-content: space-between;
-    margin: 0.5rem 0.25rem 5rem 0.25rem;
+    margin: 1rem 1em 5rem;
 }
 
 footer {
@@ -113,6 +113,10 @@ p, ul, ol {
 
 ol {
     padding-inline-start: 1rem;
+}
+
+ul ul {
+    margin-bottom: 0;
 }
 
 blockquote {

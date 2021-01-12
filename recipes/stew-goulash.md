@@ -14,9 +14,10 @@ category: entree
 * 3 medium potatoes
 * salt
 * pepper
-* lovor leaves
+* bail leaves
 * tomato paste
-* chili
+* chili powder
+* 0.5 tsp. corn starch
 
 ## Instructions
 * Dice onions
@@ -32,3 +33,5 @@ category: entree
 * cook for 2.5h
 * cut potatoes into cubes
 * add them and cook for 30 mins
+* add chili powder depending on your heat preference
+* mix in corn starch and cook for a min
