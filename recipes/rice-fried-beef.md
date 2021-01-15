@@ -7,7 +7,7 @@ category: entree
 # Beef Fried Rice
 
 ## Ingredients 
-* 1.5 tbsp of soy sauce
+* 1.5 Tbsp of soy sauce
 * 1 tsp sesame oil
 * 150g beef (1 rinder roladen)
 * 1/2 medium onion

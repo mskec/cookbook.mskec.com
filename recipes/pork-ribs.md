@@ -19,13 +19,13 @@ category: entree
 ### Sauce
 * 200g ketchup
 * 20g mustard
-* 2 tbsp. vinegar
-* 2 tbsp worcestershire
+* 2 Tbsp. vinegar
+* 2 Tbsp worcestershire
 * 1 ts. paprika
 * 0.5 ts. cayenne 
 * 0.5 ts. salt
 * 1 ts. sugar
-* 4 tbsp. reserved ribs liquid
+* 4 Tbsp. reserved ribs liquid
 
 ## Instructions
 ### Ribs

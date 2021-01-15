@@ -9,10 +9,10 @@ category: appetizer
 ## Ingredients
 ### Dough
 * 2 cups (272g) AP flour
-* 1 tbsp sugar
-* 1 tbsp salt
+* 1 Tbsp sugar
+* 1 Tbsp salt
 * white petter
-* 1 tbsp oil
+* 1 Tbsp oil
 * 1/2 cup (118g) hot water
 
 ### Roux

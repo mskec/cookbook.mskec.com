@@ -9,18 +9,18 @@ category: entree
 ## Ingredients
 For 2 person
 * beef steak (rinder hufte) 250-300g
-* red onion 0.5 medium
-* tomato 0.5 medium
-* (optional) ginger 2cm
-* rice 130g 
-* fries 300g 
-* red chili / aji amarillo 0.-75 - 1 (or aji amarillo paste)
-* beef broth 200ml
+* 0.5 medium red onion
+* 0.5 medium tomato 
+* 2cm ginger (optional)  
+* 130g rice  
+* 300g fries 
+* 0.5 or 1 red chili / aji amarillo (or aji amarillo paste)
+* 200ml beef broth
 * light soy sauce
 * vinegar
 * salt
 * pepper
-* vegetable oil (canola)
+* vegetable oil (eg. canola)
 
 ## Instructions
 ### Preparation
@@ -37,11 +37,11 @@ For 2 person
 * Keep covered until serving if rice doesn't feel cooked enough
 * Serve on the side
 
-## Fries
+### Fries
 * Put them in oven 180 degrees (with fan) for 20 mins
 * Shake after 10 mins
 
-## Meat
+### Meat
 * Cover heavy skillet with oil, bring to hot
 * Put meat and spread it over pan
 * Salt the meat
@@ -50,13 +50,13 @@ For 2 person
 * let it leave residue in pot which will be used for sauce
 * remove to a plate
 
-## Sauce
+### Sauce
 * To the same pan, add 200ml of water and 0.5-1 tsp of beef broth
 * As it boils, scrape residue from the bottom of a pan
 * Let it reduce to half
 * Remove to a bowl, pot should be without residue
 
-## Final steps
+### Final steps
 * To the same pan, add a bit of oil
 * high heat
 * Add onions and fry for 1-2 mins

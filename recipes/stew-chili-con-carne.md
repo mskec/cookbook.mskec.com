@@ -12,7 +12,7 @@ category: entree
 * 2 medium onions
 * 2 garlic cloves
 * 2 can of beans (~415g)
-* 6 tbsp sweet corn
+* 6 Tbsp sweet corn
 * chili
 * salt
 * paprika

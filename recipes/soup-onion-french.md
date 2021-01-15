@@ -10,11 +10,11 @@ category: entree
 * 800g onions (4-5 medium)
 * 80g or more Gruyer cheese
 * White bread
-* 2 tbsp butter
+* 2 Tbsp butter
 * Olive oil
 * Salt
 * White dry wine 150ml
-* 1 tbsp flour
+* 1 Tbsp flour
 * 1l beef stock (4 ts of powder)
 * Dry thyme, rosemary, bail leaves
 

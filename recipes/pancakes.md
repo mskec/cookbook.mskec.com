@@ -11,8 +11,8 @@ category: dessert
 * 2 eggs
 * 1.5 cup milk (340 g)
 * 1 cup flour (140 g)
-* 1 tbsp. oil
-* 1/3 tbsp. salt
+* 1 Tbsp. oil
+* 1/3 Tbsp. salt
 
 ## Instructions
 * In a bowl add 2 eggs, milk and oil

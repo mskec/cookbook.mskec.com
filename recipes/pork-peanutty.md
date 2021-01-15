@@ -17,8 +17,8 @@ category: entree
 * rice 200g
 
 ### Stir-fry sauce
-* soy sauce 4 tbsp
-* rice vinegar 2 tbsp
+* soy sauce 4 Tbsp
+* rice vinegar 2 Tbsp
 * sugar 1 tsp
 * garlic cloves 2-3
 * ginger 1-2"
@@ -39,7 +39,7 @@ category: entree
 * Cook rice
 
 ### Pork & vegetables
-* To a pan, add 1 tbsp oil
+* To a pan, add 1 Tbsp oil
 * Medium-high heat
 * Fry pork until slightly brown
 * Remove it

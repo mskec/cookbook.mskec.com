@@ -27,8 +27,8 @@ category: entree
 ### Pork marinade
 * cut pork belly into 1cm pieces
 * put in a small bowl 
-* add 1 tbsp dark soy sauce
-* add 1 tbsp rice vinegar
+* add 1 Tbsp dark soy sauce
+* add 1 Tbsp rice vinegar
 * mix and marinate for 1h
 
 ### Preparation
@@ -53,9 +53,9 @@ category: entree
 * Add garlic and fry for a min
 * Add ginger and fry for a min
 * Add mushrooms and chili and fry for a min
-* Add 3 tbsp dark soy sauce 
-* Add 3 tbsp light soy sauce
-* Add 3 tbsp rice vinegar
+* Add 3 Tbsp dark soy sauce 
+* Add 3 Tbsp light soy sauce
+* Add 3 Tbsp rice vinegar
 * Let it reduce
 * Add water 
     * bring to a boil and let it simmer
