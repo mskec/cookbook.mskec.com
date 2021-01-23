@@ -1,33 +1,48 @@
 ---
-name: New York Times
-residence: New York, USA
+name: Martin Skec
+residence: Berlin, Germany
 category: other
 ---
 
 # Pizza dough
 
 ## Ingredients
+
 For 2 pies
-* 150g “00" flour
-* 150g all purpose flour  
-* 1.5 tsp. fine sea salt
-* 12 grams fresh yeast (4g dry yeast) 
-* 1 Tbsp. olive oil
-* 180g water
+* 240g all purpose flour
+* 80g "00" flour
+* 6g fresh yeast
+* 210ml cold water
+* 9.6g salt
+
 
 ## Instructions
-* In a large mixing bowl, combine flour and salt
-* In a small glass, stir together water and yeast 
-* Mix water with yeast into large mixing bowl
-* Kneed the dough for 3 mins
-* Let it rest of 15 mins
-* Kneed for further 10 mins
-* Cut into 2 equal pieces and shape each into a ball
-    * Place in a heavily floured container 
-    * Cover with dampened cloth
-* Resting
-    * Let it rest for 3 to 4 hours at room temperature or
-    * for 8 to 24 hours in the refrigerator
-        * let it warm up 30 to 45 mins before shaping it for pizza.
 
-Inspiration: [How to Make Pizza Dough at Home](https://www.youtube.com/watch?v=u-KDRmOYSb0)
+* add water to mixing bowl
+* dissolve yeast
+* add 10% flour before adding salt (to prevent salt from killing yeast)
+* mix it
+* add the remaining flour
+* loosely mix with fingertips or with a spoon (just to incorporate everything)
+* let it rest for 30 mins 
+* kneed for 15 mins
+* shape into a ball
+* bulk proof
+    * coat your container with an olive oil
+    * place the dough inside
+    * cover with foil
+    * let it rise at room temperature for 3-6h
+* cold proof inside fridge for 12-24h 
+* cut the dough in 2 pieces
+* shape into balls
+* last proofing
+    * coat your container with an olive oil or flour
+    * place dough balls 
+    * let it rise for at room temperature for at least 2h
+* it's ready for stretching and toppings
+
+### Video guide
+
+* [How to Make Neapolitana Pizza Dough](https://youtu.be/HkXojFU_LrE)
+* [How to Shape Dough Balls](https://www.youtube.com/watch?v=v5t5MEZt6LM)
+* [How to Stretch Pizza Dough](https://www.youtube.com/watch?v=9f9-xTcKzZo)
