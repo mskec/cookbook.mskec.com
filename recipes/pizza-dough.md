@@ -20,25 +20,33 @@ For 2 pies
 
 * add water to mixing bowl
 * dissolve yeast
-* add 10% flour before adding salt (to prevent salt from killing yeast)
-* mix it
+* before adding salt
+  * add 10% flour (to prevent salt from killing yeast)
+  * mix it
+  * add salt
+  * mix it
 * add the remaining flour
 * loosely mix with fingertips or with a spoon (just to incorporate everything)
 * let it rest for 30 mins 
 * kneed for 15 mins
 * shape into a ball
-* bulk proof
-    * coat your container with an olive oil
-    * place the dough inside
-    * cover with foil
-    * let it rise at room temperature for 3-6h
+  
+### Bulk proof
+* coat your container with an olive oil
+* place the dough inside
+* cover with foil
+* let it rise at room temperature for 3-6h
+  
+### Cold proof
 * cold proof inside fridge for 12-24h 
-* cut the dough in 2 pieces
+* take it out and let it warm to a room temperature (~20 mins)
+* cut the dough in half
 * shape into balls
-* last proofing
-    * coat your container with an olive oil or flour
-    * place dough balls 
-    * let it rise for at room temperature for at least 2h
+
+### Last proof
+* coat your container with an olive oil or flour
+* place dough balls 
+* let it rise for at room temperature for at least 2h
 * it's ready for stretching and toppings
 
 ### Video guide
