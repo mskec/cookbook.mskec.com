@@ -19,11 +19,11 @@ For 2 pies
 ## Instructions
 
 * add water to mixing bowl
-* dissolve yeast
-* before adding salt
+* add salt
+* before adding yeast
   * add 10% flour (to prevent salt from killing yeast)
   * mix it
-  * add salt
+  * add yeast
   * mix it
 * add the remaining flour
 * loosely mix with fingertips or with a spoon (just to incorporate everything)
