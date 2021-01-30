@@ -24,7 +24,7 @@ For 2 person
 
 ## Instructions
 ### Preparation
-* cut meat strips into strips and then cubes, 3-5cm long
+* cut meat into strips and then cubes, 3-5cm long
 * cut onion in small slices
 * cut tomato in small slices, remove seeds
 * cut chilli into small cubes
@@ -43,7 +43,7 @@ For 2 person
 
 ### Meat
 * Cover heavy skillet with oil, bring to hot
-* Put meat and spread it over pan
+* Put meat and spread it in pan
 * Salt the meat
 * Don't move it for a minute to get nice crust
 * Turn it and cook for another minute
@@ -51,7 +51,7 @@ For 2 person
 * remove to a plate
 
 ### Sauce
-* To the same pan, add 200ml of water and 0.5-1 tsp of beef broth
+* To the same pan, add 200ml of water and 0.5-1 tsp of beef broth poweder
 * As it boils, scrape residue from the bottom of a pan
 * Let it reduce to half
 * Remove to a bowl, pot should be without residue
@@ -60,7 +60,7 @@ For 2 person
 * To the same pan, add a bit of oil
 * high heat
 * Add onions and fry for 1-2 mins
-* Add tomato, chilli and fry for a min
+* Add tomato, chili and fry for a min
 * Add sauce and reduce heat to medium
 * Add a bit of soy sauce and vinegar
 * Add meat
