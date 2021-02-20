@@ -332,6 +332,16 @@ section.recipe > h1 {
     font-weight: 500;
     font-size: 4rem;
 }
+@media (max-width: 576px) {
+    section.recipe > h1 {
+        font-size: 3rem;
+    }
+}
+@media (max-width: 400px) {
+    section.recipe > h1 {
+        font-size: 2rem;
+    }
+}
 
 section.recipe > .credit {
     font-weight: 500;

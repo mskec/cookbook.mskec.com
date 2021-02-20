@@ -2,6 +2,7 @@
 name: Martin Skec
 residence: Berlin, Germany
 category: other
+cover_img: pizza-dough.png
 ---
 
 # Pizza dough
@@ -31,22 +32,18 @@ For 2 pies
 * kneed for 15 mins
 * shape into a ball
   
-### Bulk proof
-* coat your container with an olive oil
+### Bulk proofing
+* coat your container with olive oil 
 * place the dough inside
 * cover with foil
-* let it rise at room temperature for 3-6h
-  
-### Cold proof
-* cold proof inside fridge for 12-24h 
-* take it out and let it warm to a room temperature (~20 mins)
-* cut the dough in half
-* shape into balls
+* let it rise at room temperature for 3-48h
 
 ### Last proof
-* coat your container with an olive oil or flour
+* cut the dough in half
+* shape into balls
+* coat your container with olive oil or flour
 * place dough balls 
-* let it rise for at room temperature for at least 2h
+* let it rise at room temperature for at least 2h
 * it's ready for stretching and toppings
 
 ### Video guide

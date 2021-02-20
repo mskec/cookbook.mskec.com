@@ -2,6 +2,7 @@
 name: Alex Frenchguycooking
 residence: Paris, France
 category: entree
+cover_img: red-onion.png
 ---
 
 # French onion soup

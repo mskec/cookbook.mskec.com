@@ -2,6 +2,7 @@
 name: Martin Skec
 residence: Berlin, Germany
 category: entree
+cover_img: tomato-bunch.png
 ---
 
 # Pasta arrabbiata (amatriciana)

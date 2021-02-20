@@ -125,11 +125,16 @@ def parse_to_recipe(content: str) -> Recipe:
     # ingredients = get_ingredients(document)
     # instructions = get_instructions(document)
 
+    category = RecipeCategory(recipe_metadata["category"].lower())
+    cover_img = recipe_metadata["cover_img"] if "cover_img" in recipe_metadata else (category.value.lower() + ".png")
+    print(recipe_name, cover_img)
+
     return Recipe(
         name=recipe_metadata["name"],
         residence=recipe_metadata["residence"],
-        category=RecipeCategory(recipe_metadata["category"].lower()),
+        category=category,
         recipe_name=recipe_name,
+        cover_img=cover_img,
         quote=recipe_metadata["quote"] if "quote" in recipe_metadata else "",
         ingredients="\n".join(ingredients),
         instructions="\n".join(instructions),

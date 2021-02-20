@@ -2,6 +2,7 @@
 name: Cafe delites
 residence: Melbourne, Australia
 category: entree
+cover_img: fish.png
 ---
 
 # Honey Garlic Salmon

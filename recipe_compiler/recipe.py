@@ -10,6 +10,7 @@ class Recipe:
     residence: str
     category: RecipeCategory
     recipe_name: str
+    cover_img: str
     quote: str
     ingredients: str
     instructions: str

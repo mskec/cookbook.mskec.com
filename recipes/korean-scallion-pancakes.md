@@ -2,6 +2,7 @@
 name: Eric Sze
 residence: USA
 category: appetizer
+cover_img: green-onions.png
 ---
 
 # Scallion pancakes 
