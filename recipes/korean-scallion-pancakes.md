@@ -2,7 +2,7 @@
 name: Eric Sze
 residence: USA
 category: appetizer
-cover_img: green-onions.png
+cover_img: scallion-pancakes.png
 ---
 
 # Scallion pancakes 
@@ -32,5 +32,3 @@ cover_img: green-onions.png
 * in a sauce pan
 * cook until flour doesn't feel raw
 * stir all the time
-
-Inspiration: [Scallion Pancake | Eric Sze](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODg2NzQwMjY5NTUxNTY0)

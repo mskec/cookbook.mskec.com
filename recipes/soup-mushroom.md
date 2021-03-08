@@ -2,6 +2,7 @@
 name: Martin Skec
 residence: Berlin, Germany
 category: appetizer
+cover_img: soup-mushroom.png
 ---
 
 # Mushroom soup
