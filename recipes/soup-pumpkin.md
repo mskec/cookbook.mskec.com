@@ -2,6 +2,7 @@
 name: Brankica Skec
 residence: Zagreb, Croatia
 category: appetizer
+cover_img: soup-pumpkin.png
 ---
 
 # Pumpkin soup
