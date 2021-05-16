@@ -7,12 +7,12 @@ category: entree
 # Baby Back Ribs
 
 ## Ingredients
-* 1.1kg ribs (~2.5 racks)
+* 2 racks baby back ribs (~1.1kg)
 
 ### Ribs rub
-* Paprika, 3 tsp
-* Chili, 0.5 tsp
-* Garlic, 1 tsp
+* Paprika powder, 3 tsp
+* Chili powder, 0.5 tsp
+* Garlic powder, 1 tsp
 * Oregano,  1 tsp
 * Salt, 1 tsp
 
@@ -22,7 +22,7 @@ category: entree
 * 2 Tbsp. vinegar
 * 2 Tbsp worcestershire
 * 1 ts. paprika
-* 0.5 ts. cayenne 
+* 0.5 ts. chili 
 * 0.5 ts. salt
 * 1 ts. sugar
 * 4 Tbsp. reserved ribs liquid
@@ -31,12 +31,7 @@ category: entree
 ### Ribs
 * Double wrap ribs in foil (each rack separately)
 * Bake in the oven for 2.5h at 150C
-* After 1.5h, take out liquid from each foil (reserve it for sauce)
-
-### Broiling
-* Set an oven to a broil high temperature
-* Broil for 10-15min or until charred
-* Serve with the sauce 
+* After 1.5h, take out liquid from each rack (reserve it for the sauce)
 
 ### Sauce
 * Combine all sauce ingredients in a sauce pot
@@ -44,4 +39,10 @@ category: entree
 * Simmer for 5 mins
 * Let it cool down
 
-Inspiration: [Dallas BBQ Sauce](https://www.lecremedelacrumb.com/dallas-bbq-sauce/)
+### Broiling ribs
+* Set an oven to a broil, high temperature
+* Broil for 10-15min or until charred
+* Serve with the sauce 
+
+
+Sauce inspiration: [Dallas BBQ Sauce](https://www.lecremedelacrumb.com/dallas-bbq-sauce/)
