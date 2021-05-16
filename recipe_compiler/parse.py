@@ -127,7 +127,7 @@ def parse_to_recipe(content: str) -> Recipe:
 
     category = RecipeCategory(recipe_metadata["category"].lower())
     cover_img = recipe_metadata["cover_img"] if "cover_img" in recipe_metadata else (category.value.lower() + ".png")
-    print(recipe_name, cover_img)
+    # print(recipe_name, cover_img)
 
     return Recipe(
         name=recipe_metadata["name"],
