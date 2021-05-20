@@ -2,6 +2,7 @@
 name: Martin Skec
 residence: Berlin, Germany
 category: entree
+cover_img: pork-ribs.png
 ---
 
 # Baby Back Ribs
