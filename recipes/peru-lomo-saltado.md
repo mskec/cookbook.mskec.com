@@ -11,13 +11,13 @@ For 2 person
 * beef steak (rinder hufte) 250-300g
 * 0.5 medium red onion
 * 0.5 medium tomato 
-* 2cm ginger (optional)  
+* 2cm ginger
+* 1 garlic clove  
 * 130g rice  
 * 300g fries 
-* 0.5 or 1 red chili / aji amarillo (or aji amarillo paste)
-* 200ml beef broth
-* light soy sauce
-* vinegar
+* 0.5 or 1 red chili / aji amarillo (or 2 tsp. aji amarillo paste)
+* 1 Tbsp. light soy sauce
+* 1/4 lime 
 * salt
 * pepper
 * vegetable oil (eg. canola)
@@ -25,9 +25,11 @@ For 2 person
 ## Instructions
 ### Preparation
 * cut meat into strips and then cubes, 3-5cm long
+  * season with salt, pepper, a little of cumin, and lime juice
 * cut onion in small slices
-* cut tomato in small slices, remove seeds
+* cut tomato in small slices, optionally remove seeds 
 * cut chilli into small cubes
+* combine aji amarillo paste, soy sauce, and minced garlic
 
 ### Rice
 * Add rice, 200ml of water to a small cooking pot
@@ -38,7 +40,7 @@ For 2 person
 * Serve on the side
 
 ### Fries
-* Put them in oven 180 degrees (with fan) for 20 mins
+* Put them in the oven at 180 degrees (with fan) for 20 mins
 * Shake after 10 mins
 
 ### Meat
@@ -50,21 +52,15 @@ For 2 person
 * let it leave residue in pot which will be used for sauce
 * remove to a plate
 
-### Sauce
-* To the same pan, add 200ml of water and 0.5-1 tsp of beef broth poweder
-* As it boils, scrape residue from the bottom of a pan
-* Let it reduce to half
-* Remove to a bowl, pot should be without residue
-
 ### Final steps
 * To the same pan, add a bit of oil
 * high heat
 * Add onions and fry for 1-2 mins
 * Add tomato, chili and fry for a min
-* Add sauce and reduce heat to medium
-* Add a bit of soy sauce and vinegar
 * Add meat
-* Let it all come together for a min/two
-* At the end add fries and eat
+* Add sauce and reduce heat to medium
+* Let it all come together for a min or two
+* At the end add fries
+* Enjoy
 
-Inspiration: [Lomo Saltado | Hungry For… Peru](https://www.youtube.com/watch?v=7CpXkEBV6Hs)
+Inspiration: [Lomo Saltado | Hungry For… Peru](https://www.youtube.com/watch?v=7CpXkEBV6Hs), [Lomo Saltado | Chef Zee Cooks](https://www.youtube.com/watch?v=Z3RWh2yicKs)
