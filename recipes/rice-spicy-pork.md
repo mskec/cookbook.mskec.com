@@ -36,7 +36,6 @@ category: entree
 * Cook rice how you always make it
 * Cut a carrot into thin planks
 * Remove pork marinade onto a plate
-
 * Add 1 Tbsp vegetable oil in a large pan over medium-high
 * Cover skillet with pork 
   * It's okay to do it in two batches
@@ -47,14 +46,13 @@ category: entree
 * Cover skillet with carrots
   * Cook undisturbed for 2 mins
   * Turn them and cook for another minute or two until soft
-  * Remvoe to a plate
+  * Remove to a plate
 
 ### Plating
 * (optional) In a small sauce plate
   * mix 1 tsp soy sauce
   * and 1 tsp rice vinegar
   * spread the mixture over rice
-
 * In a deep plate or a bowl
   * Add rice
   * Add meat on one side
