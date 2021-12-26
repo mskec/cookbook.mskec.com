@@ -8,7 +8,7 @@ category: other
 
 ## Ingredients
 * 550g bread flour
-* 50g full kernel flour
+* 50g whole grain flour
 * 26g yeast
 * 420ml water
 * 10g salt
