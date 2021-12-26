@@ -9,7 +9,7 @@ category: entree
 ## Ingredients
 **For 2 person**
 * pork chops 250g 
-* Vegtable oil
+* Vegetable oil
 * Celery 2 stalks
 * Green onion 2 (same volume as celery)
 * Red chili 1-2
