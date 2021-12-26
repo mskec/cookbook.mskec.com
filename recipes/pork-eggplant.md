@@ -34,14 +34,10 @@ category: entree
   * Add salt and eggplant
   * Let it soak for 15 mins
   * Drain water and dry the eggplant
-
-
 * Mix together all ingredients for the sauce in a small bowl
 
 ### Cooking
 * Cook rice how you always make it
-
-
 * Coat the eggplant with corn starch  
 * Add oil to a pan
 * Fry eggplant until slightly browned
