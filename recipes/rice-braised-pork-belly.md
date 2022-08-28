@@ -4,7 +4,7 @@ residence: Australia
 category: entree
 ---
 
-# Braised pork belly
+# Taiwanese Braised Pork Belly
 
 ## Ingredients 
 * 2 strips of pork belly
@@ -13,7 +13,6 @@ category: entree
 * 1 shallot / half onion
 * 1 garlic glove
 * 1” ginger
-* 1 egg
 * 1 chili pepper
 * dark soy sauce
 * light soy sauce
@@ -22,6 +21,7 @@ category: entree
 * sugar
 * five spices
 * 0.5l water
+* (optional) 1 egg
 
 ## Instructions
 ### Pork marinade
@@ -37,7 +37,7 @@ category: entree
 * dice ginger
 * dice chili pepper
 * cut mushrooms in small pieces
-* boil an egg
+* (optional) soft boil an egg (7 mins)
 
 #### Mushroom
 * boil some water
@@ -45,15 +45,13 @@ category: entree
 * let it soak for 10-20mins
 
 ### Cooking
-
 * In a pan
 * Add marinated pork 
 	* fry for 4-5 mins or until all liquid evaporates
-* Add shallots and fry a min
-* Add garlic and fry for a min
-* Add ginger and fry for a min
-* Add mushrooms and chili and fry for a min
-* Add 3 Tbsp dark soy sauce 
+* Add shallots, sauté a min
+* Add mushrooms and chili, sauté for a min
+* Add garlic and ginger, sauté for a min
+* Add 3 Tbsp dark soy sauce
 * Add 3 Tbsp light soy sauce
 * Add 3 Tbsp rice vinegar
 * Let it reduce
