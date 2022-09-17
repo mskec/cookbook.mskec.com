@@ -9,13 +9,11 @@ cover_img: pizza-dough.png
 
 ## Ingredients
 
-For 2 pies
-* 240g all purpose flour
-* 80g "00" flour
+For 2 pies (290g each)
+* 345g "00" flour
 * 6g fresh yeast
-* 210ml cold water
-* 9.6g salt
-
+* 225ml cold water
+* 10g salt
 
 ## Instructions
 
@@ -30,7 +28,7 @@ For 2 pies
 * loosely mix with fingertips or with a spoon (just to incorporate everything)
 * let it rest for 30 mins 
 * kneed for 15 mins
-* shape into a ball
+* shape into a big ball
   
 ### Bulk proofing
 * coat your container with olive oil 
@@ -40,7 +38,7 @@ For 2 pies
 
 ### Last proof
 * cut the dough in half
-* shape into balls
+* shape into pizza balls ([video][how-to-shape-balls])
 * coat your container with olive oil or flour
 * place dough balls 
 * let it rise at room temperature for at least 2h
@@ -48,6 +46,9 @@ For 2 pies
 
 ### Video guide
 
+* [Pizza Calculator](https://www.stadlermade.com/pizza-calculator/)
 * [How to Make Neapolitana Pizza Dough](https://youtu.be/HkXojFU_LrE)
-* [How to Shape Dough Balls](https://www.youtube.com/watch?v=v5t5MEZt6LM)
+* [How to Shape Dough Balls][how-to-shape-balls]
 * [How to Stretch Pizza Dough](https://www.youtube.com/watch?v=9f9-xTcKzZo)
+
+[how-to-shape-balls]: <https://www.youtube.com/watch?v=v5t5MEZt6LM>
