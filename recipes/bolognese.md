@@ -1,7 +1,7 @@
 ---
 name: Martin Skec
 residence: Berlin, Germany
-category: entree
+category: italian
 ---
 
 # Bolognese

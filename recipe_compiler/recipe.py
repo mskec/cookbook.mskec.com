@@ -1,8 +1,16 @@
+from enum import Enum
 from dataclasses import dataclass
-from recipe_compiler.recipe_category import RecipeCategory
 
 import frontmatter
 
+
+class RecipeCategory(Enum):
+    APPETIZER = "appetizer"
+    ENTREE = "entree"
+    ASIAN = "asian"
+    ITALIAN = "italian"
+    DESSERT = "dessert"
+    OTHER = "other"
 
 @dataclass
 class Recipe:

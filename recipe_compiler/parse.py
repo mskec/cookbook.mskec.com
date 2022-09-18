@@ -1,6 +1,5 @@
 from marko.block import Document, Heading, List, Quote
-from recipe_compiler.recipe import Recipe
-from recipe_compiler.recipe_category import RecipeCategory
+from recipe_compiler.recipe import Recipe, RecipeCategory
 
 import marko
 import frontmatter

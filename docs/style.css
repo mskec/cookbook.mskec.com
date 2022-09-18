@@ -139,7 +139,7 @@ a {
     color: var(--text-primary);
 }
 
-p a {
+li a, p a {
     text-decoration: underline;
 }
 

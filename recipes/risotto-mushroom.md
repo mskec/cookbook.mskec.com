@@ -1,7 +1,7 @@
 ---
 name: Elise Bauer
 residence: Planet Earth
-category: entree
+category: italian
 ---
 
 # Mushroom Risotto

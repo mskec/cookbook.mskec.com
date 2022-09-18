@@ -1,7 +1,7 @@
 ---
 name: Helen's Kitchen
 residence: Australia
-category: entree
+category: asian
 ---
 
 # Taiwanese Braised Pork Belly

@@ -1,7 +1,7 @@
 ---
 name: Nikola Miličić
 residence: Berlin, Germany
-category: entree
+category: asian
 ---
 
 # Tonkotsu ramen

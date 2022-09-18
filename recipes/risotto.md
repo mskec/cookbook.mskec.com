@@ -1,7 +1,7 @@
 ---
 name: Joshua Weissman
 residence: Texas, USA
-category: entree
+category: italian
 portions: 2
 ---
 

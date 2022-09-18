@@ -64,10 +64,40 @@
             </ol>
           </div>
         </div>
+        <div class="chapter">
+          <span class="chapter-number">03</span>
+          <div class="chapter-description">
+            <h3><a href="#italian">Italian</a></h3>
+            <ol>
+              {% for recipe in recipes_by_category["italian"] %}
+                <li>
+                  <a href="{{ recipe.slug }}"
+                  >{{ recipe.recipe_name }}</a
+                  >
+                </li>
+              {% endfor %}
+            </ol>
+          </div>
+        </div>
       </div>
       <div class="chapter-column">
         <div class="chapter">
-          <span class="chapter-number">03</span>
+          <span class="chapter-number">04</span>
+          <div class="chapter-description">
+            <h3><a href="#asian">Asian</a></h3>
+            <ol>
+              {% for recipe in recipes_by_category["asian"] %}
+                <li>
+                  <a href="{{ recipe.slug }}"
+                  >{{ recipe.recipe_name }}</a
+                  >
+                </li>
+              {% endfor %}
+            </ol>
+          </div>
+        </div>
+        <div class="chapter">
+          <span class="chapter-number">05</span>
           <div class="chapter-description">
             <h3><a href="#desserts">Desserts</a></h3>
             <ol>
@@ -82,7 +112,7 @@
           </div>
         </div>
         <div class="chapter">
-          <span class="chapter-number">04</span>
+          <span class="chapter-number">06</span>
           <div class="chapter-description">
             <h3><a href="#others">Others</a></h3>
             <ol>
@@ -142,12 +172,54 @@
     </div>
   </section>
 
+  <!-- Italian -->
+  <section class="italian" id="italian">
+    <header>
+      <img src="illustrations/italian.png" alt=""/>
+      <div>
+        <span>04</span>
+        <h2>Italian</h2>
+        <p>Delicious simplicity</p>
+      </div>
+    </header>
+    <div class="recipe-cards">
+      {% for recipe in recipes_by_category["entree"] %}
+        <div class="recipe-card">
+          <a href="{{ recipe.slug }}">
+            <h3>{{ recipe.recipe_name }}</h3>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+  </section>
+
+  <!-- Asian -->
+  <section class="asian" id="asian">
+    <header>
+      <img src="illustrations/asian.png" alt=""/>
+      <div>
+        <span>03</span>
+        <h2>Asian</h2>
+        <p>From the Far East</p>
+      </div>
+    </header>
+    <div class="recipe-cards">
+      {% for recipe in recipes_by_category["entree"] %}
+        <div class="recipe-card">
+          <a href="{{ recipe.slug }}">
+            <h3>{{ recipe.recipe_name }}</h3>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+  </section>
+
   <!-- Desserts -->
   <section class="desserts" id="desserts">
     <header>
       <img src="illustrations/dessert.png" alt=""/>
       <div>
-        <span>03</span>
+        <span>05</span>
         <h2>Desserts</h2>
         <p>Sweet treats</p>
       </div>
@@ -170,7 +242,7 @@
     <header>
       <img src="illustrations/other.png" alt=""/>
       <div>
-        <span>04</span>
+        <span>06</span>
         <h2>Others</h2>
         <p>Some more stuff</p>
       </div>

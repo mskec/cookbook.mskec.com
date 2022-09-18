@@ -1,7 +1,7 @@
 ---
 name:  Elaine Luo
 residence: Sichuan, China
-category: entree
+category: asian
 ---
 
 # Yu Xiang Eggplant with pork

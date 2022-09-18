@@ -1,12 +1,15 @@
 ---
 name: Joshua Weissman
 residence: Texas, USA
-category: entree
+category: asian
 ---
 
-# Pork / Chicken Chow Mein Noodles
+# Pork or Chicken Chow Mein Noodles
 
 ## Ingredients
+
+🚧 WORK IN PROGRESS
+
 * 120g protein (pork chops / neck or chicken things / shrimps)
 * ??200g chow mein / stir fry noodles  
 * 0.5 carrot
@@ -30,9 +33,6 @@ category: entree
 
 ### Cutting
 * Thinly slice cabbage
-* 
-* 
-* 
 
 
 ### Cooking

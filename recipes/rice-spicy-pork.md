@@ -1,7 +1,7 @@
 ---
 name: Chris Morocco
 residence: New York, USA
-category: entree
+category: asian
 ---
 
 # Spicy Pork Tenderloin
