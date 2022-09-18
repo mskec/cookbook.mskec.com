@@ -7,6 +7,7 @@ from recipe_compiler.render import (
 )
 from recipe_compiler.write import write_home_page, write_page
 
+from distutils.dir_util import copy_tree
 import argparse
 import glob
 import htmlmin
@@ -56,3 +57,6 @@ if __name__ == "__main__":
     # write_page("contribute", contribute_page)
     for recipe_slug, recipe_page in recipe_pages:
         write_page(recipe_slug, recipe_page)
+
+    # Copy resources
+    copy_tree("./public", "./docs")
