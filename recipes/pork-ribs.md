@@ -11,11 +11,11 @@ cover_img: pork-ribs.png
 * 2 racks baby back ribs (~1.1kg)
 
 ### Dry rub
-* Salt, 1.5 tsp
-* Paprika powder, 1 tsp
-* Chili powder, 0.5 tsp
-* Garlic powder, 1 tsp
-* Sugar, 0.5 tsp
+* Salt 1.5 tsp
+* Paprika powder 1 tsp
+* Chili powder 0.5 tsp
+* Garlic powder 1 tsp
+* Sugar 0.5 tsp
 * (optional) Ground coffee 0.5 tsp
 
 ### Sauce
