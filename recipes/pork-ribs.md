@@ -10,12 +10,13 @@ cover_img: pork-ribs.png
 ## Ingredients
 * 2 racks baby back ribs (~1.1kg)
 
-### Ribs rub
-* Paprika powder, 3 tsp
+### Dry rub
+* Salt, 1.5 tsp
+* Paprika powder, 1 tsp
 * Chili powder, 0.5 tsp
 * Garlic powder, 1 tsp
-* Oregano,  1 tsp
-* Salt, 1 tsp
+* Sugar, 0.5 tsp
+* (optional) Ground coffee 0.5 tsp
 
 ### Sauce
 * 200g ketchup
@@ -30,9 +31,10 @@ cover_img: pork-ribs.png
 
 ## Instructions
 ### Ribs
+* Rub the rub on both sides
 * Double wrap ribs in foil (each rack separately)
-* Bake in the oven for 2.5h at 150C
-* After 1.5h, take out liquid from each rack (reserve it for the sauce)
+* Bake in the oven for 2.5h at 130 C
+* After 2h, take out liquid from each rack (reserve it for the sauce)
 
 ### Sauce
 * Combine all sauce ingredients in a sauce pot
@@ -40,10 +42,11 @@ cover_img: pork-ribs.png
 * Simmer for 5 mins
 * Let it cool down
 
-### Broiling ribs
-* Set an oven to a broil, high temperature
-* Broil for 10-15min or until charred
-* Serve with the sauce 
+### Finishing ribs
+* Set an oven to 180 C
+* Unwrap ribs and glaze them with the sauce
+* Put them in the over and each 7 min glaze them again
+* Do it at least 3 times
 
 
 Sauce inspiration: [Dallas BBQ Sauce](https://www.lecremedelacrumb.com/dallas-bbq-sauce/)
