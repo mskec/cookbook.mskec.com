@@ -32,3 +32,6 @@ jobs:
 
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4.7.2
+        with:
+          branch: gh-pages
+          commit_message: Updated site files
