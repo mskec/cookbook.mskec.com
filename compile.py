@@ -12,6 +12,8 @@ import argparse
 import glob
 import htmlmin
 
+OUT_DIR = "./out"
+
 parser = argparse.ArgumentParser()
 parser.add_argument(
     "-t", "--target", help="The target for compilation ['dev','prod']", default="dev"
@@ -59,4 +61,4 @@ if __name__ == "__main__":
         write_page(recipe_slug, recipe_page)
 
     # Copy resources
-    copy_tree("./public", "./docs")
+    copy_tree("./public", OUT_DIR)
