@@ -27,7 +27,10 @@ category: asian
 * In a bag add thinly sliced pork tenderloin
 * Add 2 Tbsp soy sauce
 * Add 3/4 Tbsp brown sugar
-* Add 1 tsp of korean
+* Add 1 tsp of Gochujang
+* Chop 1 garlic clove and add it
+* Chop 1" ginger and add it
+* Let it marinade for 20-60 mins
 
 ### Cooking
 * Cook rice how you always make it
