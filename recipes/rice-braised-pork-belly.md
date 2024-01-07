@@ -51,9 +51,9 @@ category: asian
 * Add shallots, sauté a min
 * Add mushrooms and chili, sauté for a min
 * Add garlic and ginger, sauté for a min
-* Add 3 Tbsp dark soy sauce
-* Add 3 Tbsp light soy sauce
-* Add 3 Tbsp rice vinegar
+* Add 2 Tbsp dark soy sauce
+* Add 2 Tbsp light soy sauce
+* Add 2 Tbsp rice vinegar
 * Let it reduce
 * Add water 
     * bring to a boil and let it simmer
