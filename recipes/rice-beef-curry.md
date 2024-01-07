@@ -10,7 +10,7 @@ category: asian
 **2 person**
 * 350g minced beef
 * 2-3 Japanese curry cubes 
-* 1 big potatoe
+* 1 big potato
 * 1 big carrot
 * 1 medium onion
 * 500ml water
@@ -20,7 +20,7 @@ category: asian
 ## Instructions
 ### Preparation
 * Cut carrot in half circles
-* Cut potatoe in small cubes
+* Cut potato in small cubes
 * Cut onions in slices
 * Cut cabbage in bit sized pieces
 * Cut curry cubes in smaller pieces
