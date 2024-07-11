@@ -128,6 +128,11 @@ def parse_to_recipe(content: str) -> Recipe:
     cover_img = recipe_metadata["cover_img"] if "cover_img" in recipe_metadata else (category.value.lower() + ".png")
     # print(recipe_name, cover_img)
 
+    style_block = None
+    css_html_background = recipe_metadata["css_html_background"] if "css_html_background" in recipe_metadata else None
+    if css_html_background:
+        style_block = f"<style>html {{ background: #{css_html_background}; }}</style>"
+
     return Recipe(
         name=recipe_metadata["name"],
         residence=recipe_metadata["residence"],
@@ -137,4 +142,5 @@ def parse_to_recipe(content: str) -> Recipe:
         quote=recipe_metadata["quote"] if "quote" in recipe_metadata else "",
         ingredients="\n".join(ingredients),
         instructions="\n".join(instructions),
+        style_block=style_block
     )

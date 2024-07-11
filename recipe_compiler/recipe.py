@@ -19,6 +19,7 @@ class Recipe:
     category: RecipeCategory
     recipe_name: str
     cover_img: str
+    style_block: str
     quote: str
     ingredients: str
     instructions: str
