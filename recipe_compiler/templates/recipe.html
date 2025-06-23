@@ -26,5 +26,5 @@
       </div>
     </div>
   </section>
-  {{ recipe.style_block | safe }}
+  {% if recipe.style_block %}{{ recipe.style_block | safe }}{% endif %}
 {% endblock content %}
