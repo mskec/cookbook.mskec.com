@@ -7,10 +7,10 @@ from recipe_compiler.render import (
 )
 from recipe_compiler.write import write_home_page, write_page
 
-from distutils.dir_util import copy_tree
+import shutil
 import argparse
 import glob
-import htmlmin
+import minify_html
 
 OUT_DIR = "./out"
 
@@ -48,9 +48,9 @@ if __name__ == "__main__":
 
     # Minify html
     if target == 'prod':
-        home_page = htmlmin.minify(home_page, remove_empty_space=True)
+        home_page = minify_html.minify(home_page)
         recipe_pages = map(
-            lambda page: [page[0], htmlmin.minify(page[1], remove_empty_space=True)],
+            lambda page: [page[0], minify_html.minify(page[1])],
             recipe_pages
         )
 
@@ -61,4 +61,4 @@ if __name__ == "__main__":
         write_page(recipe_slug, recipe_page)
 
     # Copy resources
-    copy_tree("./public", OUT_DIR)
+    shutil.copytree("./public", OUT_DIR, dirs_exist_ok=True)
