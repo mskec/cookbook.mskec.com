@@ -15,7 +15,15 @@ def test_recipe_slug():
 
     # When
     recipe = Recipe(
-        name, residence, category, recipe_name, quote, ingredients, instructions
+        name=name,
+        residence=residence,
+        category=category,
+        recipe_name=recipe_name,
+        cover_img="dessert.png",
+        style_block=None,
+        quote=quote,
+        ingredients="\n".join(ingredients),
+        instructions="\n".join(instructions)
     )
 
     # Then
